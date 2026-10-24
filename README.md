@@ -140,7 +140,7 @@ and are not an estimate of clinical performance.
 
 ## Citations
 
-* Code: Tauheed N, Naseer I. (2026). *mmrdr-cross-modal-gnn-fusion: v1.0 – Code for the PeerJ Computer Science article* (Version v1.0). Zenodo. https://doi.org/10.5281/zenodo.23613992
+* Code: Tauheed N, Naseer I. (2026). *mmrdr-cross-modal-gnn-fusion: v1.0 – Code for the article* (Version v1.0). Zenodo. https://doi.org/10.5281/zenodo.23613992
   — repository: https://github.com/NusratullahTauheed/mmrdr-cross-modal-gnn-fusion
 * Dataset: Tang Z, Wang L, Liang Q, Xue S, Feng C, Ran L, Chen L, Guo Z, Wang X, Li J. (2025). MMRDR (Multi-Modal
   Retinal images for in-depth DR analysis), version 2. figshare. https://doi.org/10.6084/m9.figshare.29423747.v2
