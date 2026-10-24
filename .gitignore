@@ -1,0 +1,6 @@
+# the third-party dataset and the feature cache are not part of the repository
+*.zip
+DatasetRT/
+approved_full_cached_features_v2.pt
+.ipynb_checkpoints/
+__pycache__/
