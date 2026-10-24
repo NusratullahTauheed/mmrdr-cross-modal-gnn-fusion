@@ -1,0 +1,14 @@
+# Google Colab, Python 3.12, July 2026 default runtime. Exact versions were not recorded during the original runs;
+# the environment cell at the top of notebooks 01 and 02 prints them on any rerun.
+torch
+torchvision
+timm
+numpy
+pandas
+scikit-learn
+pillow
+matplotlib
+seaborn
+tqdm
+openpyxl
+psutil
